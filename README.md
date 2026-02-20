@@ -1,1 +1,3 @@
 Bioinformatic synopsis for Love et al. 
+
+Data available at: https://zenodo.org/records/18716518?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjljN2MyYmFmLTQzNDgtNGEzOC1hNDcyLWE5YWQ3NzNiYjk5ZCIsImRhdGEiOnt9LCJyYW5kb20iOiIwNzE5YjMzOWRjNWE0YTAyNWVmODU4ZjMzOTllMGRlZCJ9.XX_QmLMxqF1_ECFxIROMKtBGCG-p3S0gvcrZ7ZCDa4nRQXjcEYDdzzgpxswEcUQBOvOCXjtrJXb16uU2wgjYnQ
